@@ -1,0 +1,19 @@
+[
+  {
+    "type": "content",
+    "parentRef": "antyk",
+    "data": {
+      "contentType": "text",
+      "text": "## Teatr, kt\u00f3ry zmieni\u0142 \u015bwiat\n\n15 000 ludzi. Jeden aktor w masce. Grecy wymys\u0142ili **tragedi\u0119** i **komedi\u0119** \u2014 i ca\u0142\u0105 literatur\u0119, kt\u00f3r\u0105 znasz."
+    }
+  },
+  {
+    "type": "content",
+    "parentRef": "antyk",
+    "data": {
+      "contentType": "quiz",
+      "text": "Czym jest **katharsis** wed\u0142ug Arystotelesa?",
+      "answer": "Oczyszczenie widza przez lito\u015b\u0107 i trwog\u0119 \u2014 cel tragedii greckiej."
+    }
+  }
+]
