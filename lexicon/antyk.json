@@ -1,0 +1,46 @@
+[
+  {
+    "type": "lexicon",
+    "data": {
+      "term": "tragedia",
+      "nodes": "[\"antyk\"]",
+      "definition": "Bohater musi przegra\u0107 \u2014 \u015bwiat nie ma dobrego wyj\u015bcia.",
+      "quiz": "{\"question\":\"Gatunek, w kt\u00f3rym bohater popada w nieuchronn\u0105 kl\u0119sk\u0119. Jaki?\",\"wrong\":[\"epos\",\"komedia\",\"ballada\"],\"answer\":\"Tragedia \u2014 gatunek dramatyczny z nieuniknionym upadkiem bohatera.\"}",
+      "forms": "[\"tragedi\u0119\",\"tragedii\"]",
+      "category": "poetyka"
+    }
+  },
+  {
+    "type": "lexicon",
+    "data": {
+      "term": "komedia",
+      "nodes": "[\"antyk\"]",
+      "definition": "Grecy wy\u015bmiewali s\u0142abo\u015bci ludzkie \u2014 \u015bmiech jako lekarstwo.",
+      "quiz": "{\"question\":\"Arystofanes wy\u015bmiewa\u0142 polityków i filozofów na scenie. Jaki gatunek uprawia\u0142?\",\"wrong\":[\"tragedia\",\"satyra\",\"farsa\"],\"answer\":\"Komedia \u2014 gatunek dramatyczny ukazuj\u0105cy s\u0142abo\u015bci ludzkie w spos\u00f3b humorystyczny.\"}",
+      "forms": "[\"komedii\",\"komedi\u0119\"]",
+      "category": "poetyka"
+    }
+  },
+  {
+    "type": "lexicon",
+    "data": {
+      "term": "katharsis",
+      "nodes": "[\"antyk\"]",
+      "definition": "Oczyszczenie przez lito\u015b\u0107 i trwog\u0119 \u2014 po to chodzisz do teatru.",
+      "quiz": "{\"question\":\"Arystoteles opisa\u0142 emocjonalne oczyszczenie widza tragedii. Jakim terminem?\",\"wrong\":[\"hamartia\",\"hybris\",\"fatum\"],\"answer\":\"Katharsis \u2014 oczyszczenie emocjonalne widza przez prze\u017cycie lito\u015bci i trwogi.\"}",
+      "forms": "[\"katharsis\"]",
+      "category": "poetyka"
+    }
+  },
+  {
+    "type": "lexicon",
+    "data": {
+      "term": "epos",
+      "nodes": "[\"antyk\"]",
+      "definition": "Wielka opowie\u015b\u0107 wierszem \u2014 Homer to wymy\u015bli\u0142.",
+      "quiz": "{\"question\":\"Homer stworzy\u0142 matryc\u0119 gatunku: inwokacja, narrator, sta\u0142y epitet. Jaki to gatunek?\",\"wrong\":[\"tragedia\",\"oda\",\"ballada\"],\"answer\":\"Epos \u2014 rozbudowany utw\u00f3r epicki o czynach bohater\u00f3w.\"}",
+      "forms": "[\"eposu\",\"eposem\"]",
+      "category": "poetyka"
+    }
+  }
+]
