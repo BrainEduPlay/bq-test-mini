@@ -1,0 +1,28 @@
+[
+  {
+    "type": "tree",
+    "data": {
+      "title": "Polski — matura (mini)",
+      "branches": "{\"epoki\": {\"label\": \"Epoki\", \"color\": \"#f43f5e\"}, \"lektury\": {\"label\": \"Lektury\", \"color\": \"#3b82f6\"}, \"konteksty\": {\"label\": \"Konteksty\", \"color\": \"#f59e0b\"}}",
+      "edges": "[{\"from\": \"antyk\", \"to\": \"sredniowiecze\", \"type\": \"progression\"}, {\"from\": \"sredniowiecze\", \"to\": \"renesans\", \"type\": \"progression\"}, {\"from\": \"renesans\", \"to\": \"barok\", \"type\": \"progression\"}, {\"from\": \"barok\", \"to\": \"romantyzm\", \"type\": \"progression\"}, {\"from\": \"romantyzm\", \"to\": \"pozytywizm\", \"type\": \"progression\"}, {\"from\": \"antyk\", \"to\": \"antygona\", \"type\": \"branch\"}, {\"from\": \"antyk\", \"to\": \"iliada\", \"type\": \"branch\"}, {\"from\": \"antyk\", \"to\": \"mitologia\", \"type\": \"branch\"}, {\"from\": \"sredniowiecze\", \"to\": \"bogurodzica\", \"type\": \"branch\"}, {\"from\": \"sredniowiecze\", \"to\": \"biblia\", \"type\": \"branch\"}, {\"from\": \"renesans\", \"to\": \"makbet\", \"type\": \"branch\"}, {\"from\": \"renesans\", \"to\": \"filozofia\", \"type\": \"branch\"}, {\"from\": \"romantyzm\", \"to\": \"dziady3\", \"type\": \"branch\"}, {\"from\": \"romantyzm\", \"to\": \"historia\", \"type\": \"branch\"}, {\"from\": \"pozytywizm\", \"to\": \"lalka\", \"type\": \"branch\"}]"
+    },
+    "children": [
+      { "type": "node", "data": { "nodeId": "antyk", "title": "Antyk", "branch": "epoki", "tier": 0, "hits": 0 } },
+      { "type": "node", "data": { "nodeId": "sredniowiecze", "title": "Średniowiecze", "branch": "epoki", "tier": 1, "hits": 0 } },
+      { "type": "node", "data": { "nodeId": "renesans", "title": "Renesans", "branch": "epoki", "tier": 2, "hits": 0 } },
+      { "type": "node", "data": { "nodeId": "barok", "title": "Barok", "branch": "epoki", "tier": 3, "hits": 0 } },
+      { "type": "node", "data": { "nodeId": "romantyzm", "title": "Romantyzm", "branch": "epoki", "tier": 4, "hits": 0 } },
+      { "type": "node", "data": { "nodeId": "pozytywizm", "title": "Pozytywizm", "branch": "epoki", "tier": 5, "hits": 0 } },
+      { "type": "node", "data": { "nodeId": "antygona", "title": "Antygona", "branch": "lektury", "tier": 0, "hits": 0 } },
+      { "type": "node", "data": { "nodeId": "iliada", "title": "Iliada", "branch": "lektury", "tier": 1, "hits": 0 } },
+      { "type": "node", "data": { "nodeId": "bogurodzica", "title": "Bogurodzica", "branch": "lektury", "tier": 2, "hits": 0 } },
+      { "type": "node", "data": { "nodeId": "makbet", "title": "Makbet", "branch": "lektury", "tier": 3, "hits": 0 } },
+      { "type": "node", "data": { "nodeId": "dziady3", "title": "Dziady cz. III", "branch": "lektury", "tier": 4, "hits": 0 } },
+      { "type": "node", "data": { "nodeId": "lalka", "title": "Lalka", "branch": "lektury", "tier": 5, "hits": 0 } },
+      { "type": "node", "data": { "nodeId": "mitologia", "title": "Mitologia", "branch": "konteksty", "tier": 0, "hits": 0 } },
+      { "type": "node", "data": { "nodeId": "biblia", "title": "Biblia", "branch": "konteksty", "tier": 1, "hits": 0 } },
+      { "type": "node", "data": { "nodeId": "filozofia", "title": "Filozofia", "branch": "konteksty", "tier": 2, "hits": 0 } },
+      { "type": "node", "data": { "nodeId": "historia", "title": "Historia Polski", "branch": "konteksty", "tier": 3, "hits": 0 } }
+    ]
+  }
+]
